@@ -112,7 +112,7 @@ class ScoreChart extends React.Component {
     }
     render(){
         return (
-            <div ref = "graph"></div>
+            <div ref="graph"></div>
         )
     }
 }
